@@ -1,0 +1,6 @@
+{
+  "name": "Cognition & Silicon",
+  "description": "An interactive exploration of machine cognition, physical silicon fabrication, historical foundations, and the metaphorical sparks of artificial general intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
